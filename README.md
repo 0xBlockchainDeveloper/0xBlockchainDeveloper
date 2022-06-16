@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xBlockchainDeveloper
-- 👀 I’m interested in DAO developers
+- 👀 I’m interested in NFT's Projects
 - 🌱 I’m currently learning Rect,Hardhat and solidity
 - 💞️ I’m looking to collaborate on building new blockchain projects
 - 📫 How to reach me -- unreachable
